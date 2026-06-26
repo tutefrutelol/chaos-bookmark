@@ -1,3 +1,3 @@
 alert("CHAOS ENGINE FUNCIONOU!");
-document.body.style.background = "black";
-document.body.style.color = "lime";
+document.body.style.background = "#000";
+document.body.style.color = "#00ff00";
